@@ -1,4 +1,4 @@
-# Aamid Mohsin's Online Portfolio
+# Aamid Mohsin's Portfolio Website
 
 This is version 1.0 of my personal portfolio site. More content has yet to be added, website is not complete at this point.
 
